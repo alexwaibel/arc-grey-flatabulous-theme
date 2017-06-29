@@ -68,7 +68,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/eti0/arc-grey-flatabulous-theme --depth 1 && cd arc-grey-flatabulous-theme
+    git clone https://github.com/alexwaibel/arc-grey-flatabulous-theme --depth 1 && cd arc-grey-flatabulous-theme
 
 **2. Build and install the theme**
 
@@ -125,7 +125,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
     gsettings set com.canonical.desktop.interface scrollbar-mode normal
 
 ### Bugs
-If you find a bug you can [open a ticket](https://github.com/eti0/arc-grey-flatabulous-theme/issues)
+If you find a bug you can [open a ticket](https://github.com/alexwaibel/arc-grey-flatabulous-theme/issues)
 
 ### Credit
 Please note this is a fork of the [Arc Grey theme](https://github.com/eti0/arc-grey-theme) which is in turn a fork of the [Arc theme](https://github.com/horst3180/arc-theme). The button styles from the [Flatabulous theme](https://github.com/anmoljagetia/Flatabulous) have been used. I created this fork to combine elements I liked best from both themes. This fork has not been thoroughly tested on anything other than Gnome 3.24.2 running on Arch. In theory this theme should work fine on everything Arc Grey does as it is just a minor window theme tweak.
