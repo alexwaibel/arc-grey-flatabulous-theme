@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Arc-Grey
-Comment=A flat theme with transparent elements
+Name=Arc-Grey-Flatabulous
+Comment=A flat theme with transparent elements and OSX style window buttons
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Grey
-MetacityTheme=Arc-Grey
+GtkTheme=Arc-Grey-Flatabulous
+MetacityTheme=Arc-Grey-Flatabulous
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
