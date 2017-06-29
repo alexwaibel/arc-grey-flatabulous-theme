@@ -1,22 +1,18 @@
-# Arc Grey Theme
+# Arc Grey Flatabulous Theme
 
-Arc Grey is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
+Arc Grey Flatabulous is a flat theme with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-##### You can download the built themes [here](https://github.com/eti0/arc-grey-theme/tree/master/builds)
-#### These builds are not always up to date !  
-#### I strongly recommend cloning the repository and building the theme since it'll have the most recent commits.
+### Arc Grey Flatabulous is available in three variants
 
-### Arc Grey is available in three variants
-
-##### Arc Grey
+##### Arc Grey Flatabulous
 
 ![A screenshot of the Arc Grey theme](http://i.imgur.com/oi7y9BP.jpg)
 
-##### Arc-Darker Grey
+##### Arc-Darker Grey Flatabulous
 
 ![A screenshot of the Arc-Darker Grey theme](http://i.imgur.com/4BatNqe.jpg)
 
-##### Arc-Dark Grey
+##### Arc-Dark Grey Flatabulous
 
 ![A screenshot of the Arc-Dark Grey theme](http://i.imgur.com/TnnCLKw.jpg)
 
@@ -49,9 +45,9 @@ If your distribution isn't listed, please check the requirements yourself.
 
 **Important:** Remove all older versions of the theme from your system before you proceed any further.
 
-    sudo rm -rf /usr/share/themes/{Arc-Grey,Arc-Darker-Grey,Arc-Dark-Grey}
-    rm -rf ~/.local/share/themes/{Arc-Grey,Arc-Darker-Grey,Arc-Dark-Grey}
-    rm -rf ~/.themes/{Arc-Grey,Arc-Darker-Grey,Arc-Dark-Grey}
+    sudo rm -rf /usr/share/themes/{Arc-Grey-Flatabulous,Arc-Darker-Grey-Flatabulous,Arc-Dark-Grey-Flatabulous}
+    rm -rf ~/.local/share/themes/{Arc-Grey-Flatabulous,Arc-Darker-Grey-Flatabulous,Arc-Dark-Grey-Flatabulous}
+    rm -rf ~/.themes/{Arc-Grey-Flatabulous,Arc-Darker-Grey-Flatabulous,Arc-Dark-Grey-Flatabulous}
 
 #### Manual Installation
 
@@ -70,7 +66,7 @@ Install the theme with the following commands
 
 If you want to install the latest version from git, clone the repository with
 
-    git clone https://github.com/eti0/arc-grey-theme --depth 1 && cd arc-grey-theme
+    git clone https://github.com/eti0/arc-grey-flatabulous-theme --depth 1 && cd arc-grey-flatabulous-theme
 
 **2. Build and install the theme**
 
@@ -94,7 +90,7 @@ Other options to pass to autogen.sh are
                                Note: Normally the correct version is detected automatically and this
                                option should not be needed.
 
-After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Grey`, `Arc-Grey-Darker` or `Arc-Grey-Dark` as Window/GTK+ theme and `Arc-Grey` or `Arc-Grey-Dark` as Gnome-Shell and Xfce-Notify theme.
+After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `Arc-Grey-Flatabulous`, `Arc-Grey-Flatabulous-Darker` or `Arc-Grey-Flatabulous-Dark` as Window/GTK+ theme and `Arc-Grey-Flatabulous` or `Arc-Grey-Flatabulous-Dark` as Gnome-Shell and Xfce-Notify theme.
 
 **Uninstall the theme**
 
@@ -104,7 +100,7 @@ Run
 
 from the same directory as this README resides in, or
 
-    sudo rm -rf /usr/share/themes/{Arc-Grey,Arc-Darker-Grey,Arc-Dark-Grey}
+    sudo rm -rf /usr/share/themes/{Arc-Grey-Flatabulous,Arc-Darker-Grey-Flatabulous,Arc-Dark-Grey-Flatabulous}
 
 ### Extras
 
@@ -127,7 +123,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
     gsettings set com.canonical.desktop.interface scrollbar-mode normal
 
 ### Bugs
-If you find a bug you can [open a ticket](https://github.com/eti0/arc-grey-theme/issues)
+If you find a bug you can [open a ticket](https://github.com/eti0/arc-grey-flatabulous-theme/issues)
 
 
 ### Full Preview
