@@ -12,9 +12,9 @@ AC_CONFIG_MACRO_DIR([m4])
 AM_INIT_AUTOMAKE([no-dist-gzip dist-xz foreign])
 AC_PROG_MKDIR_P
 
-ARC_ENABLE([LIGHT],         [light],         [Arc Grey Light],     [disable])
-ARC_ENABLE([DARKER],        [darker],        [Arc Grey Darker],    [disable])
-ARC_ENABLE([DARK],          [dark],          [Arc Grey Dark],      [disable])
+ARC_ENABLE([LIGHT],         [light],         [Arc Grey Flatabulous Light],     [disable])
+ARC_ENABLE([DARKER],        [darker],        [Arc Grey Flatabulous Darker],    [disable])
+ARC_ENABLE([DARK],          [dark],          [Arc Grey Flatabulous Dark],      [disable])
 ARC_ENABLE([CINNAMON],      [cinnamon],      [Cinnamon],      [disable])
 ARC_ENABLE([GNOME_SHELL],   [gnome-shell],   [GNOME Shell],   [disable])
 ARC_ENABLE([GTK2],          [gtk2],          [GTK2],          [disable])

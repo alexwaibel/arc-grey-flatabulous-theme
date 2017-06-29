@@ -1,6 +1,6 @@
-themedir        = $(datadir)/themes/Arc-Grey
-themedarkerdir  = $(datadir)/themes/Arc-Grey-Darker
-themedarkdir    = $(datadir)/themes/Arc-Grey-Dark
+themedir        = $(datadir)/themes/Arc-Grey-Flatabulous
+themedarkerdir  = $(datadir)/themes/Arc-Grey-Flatabulous-Darker
+themedarkdir    = $(datadir)/themes/Arc-Grey-Flatabulous-Dark
 
 ithemedir       = $(DESTDIR)$(themedir)
 ithemedarkerdir   = $(DESTDIR)$(themedarkerdir)
