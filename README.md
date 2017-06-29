@@ -132,5 +132,5 @@ Please note this is a fork of the [Arc Grey theme](https://github.com/eti0/arc-g
 
 
 ### Full Preview
-![A full screenshot of the Arc theme](http://i.imgur.com/VkhI2d5.png)
-<sub>Screenshot Details: [Icons](https://github.com/eti0/arc-limon-icon-theme) | [Wallpaper](https://u.teknik.io/9S8IA.jpg) | Font: Noto Sans Regular</sub>
+![A full screenshot of the Arc theme](http://imgur.com/dQgaiZf)
+<sub>Screenshot Details: [Icons](https://github.com/snwh/paper-icon-theme) | [Wallpaper](http://7-themes.com/data_images/out/27/6861679-grayscale-background.jpg)
